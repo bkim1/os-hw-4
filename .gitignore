@@ -1,0 +1,9 @@
+src/*.o
+src/*.ko
+src/*.symvers
+src/*.order
+src/.tmp_versions/
+src/.*
+src/*.mod.c
+.vscode
+
